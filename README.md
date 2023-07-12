@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align = "center">👋 xwtlt's README</h1>
+<div align = "center">
+  <a href="https://github.com/xwtlt"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=25&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%E8%BF%99%E9%87%8C%E6%98%AF%E7%92%83%E6%B0%B4%E5%85%89+%7C+Koishi_liwtlt;%F0%9F%91%8B+Here+is+Koishi_liwtlt%231317" alt="Typing SVG" /></a>
+</div>
 
 你可以直接称呼我小李或者水光，现坐标江西南昌，在南昌大学附属中学就读（现已休学），一名双相情感障碍患者，正在努力接受治疗。
 
