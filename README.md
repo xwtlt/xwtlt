@@ -30,11 +30,7 @@ Hi, I'm Shuiguang Li, aka liwtlt1307
 💊 止步于此...
 
 #### Learning
-<p>
-  <a href="https://github.com/xwtlt">
-    <img height="30" src="https://skillicons.dev/icons?i=js,ts,dart,vue,nuxtjs,vite,tailwind,flutter,electron,tauri,ae" />
-  </a>
-</p>
+<p><a href="https://github.com/xwtlt"><img height="30" src="https://skillicons.dev/icons?i=ts,dart,vue,nuxtjs,vite,tailwind,flutter,electron,tauri,ae" /></a></p>
 
 #### Contact
 <code><a href="mailto://szsd5257@foxmail.com"><img height="20" src="https://github.com/xwtlt/xwtlt/assets/75558996/779b5404-ade1-4a5e-86fe-0606f20093cc" /></a></code>
